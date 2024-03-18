@@ -1,4 +1,4 @@
 {
     "ModelPath": "./models/",
-    "YoloModel": "sam_b.pt"
+    "YoloModel": "FastSAM-s.pt"
 }

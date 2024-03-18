@@ -1,4 +1,5 @@
 import json
+from PyQt6.QtWidgets import QFileDialog
 
 # JSON 파일을 읽고 Python 객체로 변환하는 함수
 def load_json(filename):
@@ -20,4 +21,6 @@ def update_json_item(filename, key, new_value):
 def get_json_item(filename, key):
     data = load_json(filename)
     return data.get(key, None)
+
+
 

@@ -8,7 +8,7 @@ conda activate yolov8
 >>> git init  
 >>> git remote add origin https://github.com/MoonSongAi/yolov8anal.git
 ......
-GUI> enter "message...." click " commit "
+GUI> enter "message...."  and  click "commit button"
 ....
 >>> git push -u origin master 
 
