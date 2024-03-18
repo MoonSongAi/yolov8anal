@@ -1,0 +1,4 @@
+{
+    "ModelPath": "./models/",
+    "YoloModel": "sam_b.pt"
+}
