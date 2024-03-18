@@ -5,8 +5,12 @@ conda activate yolov8
 
 ## Git init and remote connection
 # PC에 git-scm.com에서 Git Download & install
->>> Git init  
-GUI> Git commit
+>>> git init  
+>>> git remote add origin https://github.com/MoonSongAi/yolov8anal.git
+......
+GUI> enter "message...." click " commit "
+....
+>>> git push -u origin master 
 
 
 ## yolov8 과 PyQT를 설치한다
